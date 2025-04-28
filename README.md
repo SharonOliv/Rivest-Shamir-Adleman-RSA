@@ -33,9 +33,6 @@ This project provides a simple demonstration of how asymmetric encryption using 
    ```bash
    python RSA.py
    ```
-
----
-
 ## Notes
 
 - This RSA implementation is simplified for educational purposes and not intended for real-world secure communications.
